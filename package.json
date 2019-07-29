@@ -1,0 +1,22 @@
+{
+  "name": "fis-parser-babel-es-6.x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18366168836/fis-parser-babel-es-6.x.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18366168836/fis-parser-babel-es-6.x/issues"
+  },
+  "homepage": "https://github.com/18366168836/fis-parser-babel-es-6.x#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3"
+  }
+}

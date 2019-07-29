@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/18366168836/fis-parser-babel-es-6.x#readme",
   "dependencies": {
-    "babel-core": "^6.26.3"
   }
 }
